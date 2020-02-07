@@ -12,10 +12,3 @@ class Dog
 
 end
 
-
-fido = Dog.new
-
-fido.name ="fido"
-
-my_name = fido.name
-puts my_name
